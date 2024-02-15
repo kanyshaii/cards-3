@@ -85,23 +85,32 @@ line-height: 62px;
 .dib{
 	display: inline-block;
 }
-.card_img{
-	width: calc((100% - 72px) / 3);
-}
-
-
-
-
-
-
-
-
-
-
-
-
 .flex{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.card_img{
+	width: calc((100% - 72px) / 3);
+}
+.coffee_img{
+	width: 226px;
+	margin-left: 200px;
+}
+.coffee_content{
+	max-width: 563px;
+}
+.coffee .sec_tit{
+margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+

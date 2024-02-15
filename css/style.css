@@ -85,6 +85,20 @@ line-height: 62px;
 .dib{
 	display: inline-block;
 }
+.card_img{
+	width: calc((100% - 72px) / 3);
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .flex{
 	display: flex;

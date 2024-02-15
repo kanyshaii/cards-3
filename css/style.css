@@ -104,6 +104,18 @@ line-height: 62px;
 margin-bottom: 25px;
 }
 
+.natural_content{
+	max-width: 475px;
+}
+.natural_img{
+	max-width: 610px;
+}
+.coffee .sec_tit{
+	margin-bottom: 20px;
+}
+.natural_in{
+	align-items: center;
+}
 
 
 
